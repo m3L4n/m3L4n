@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**m3L4n/m3L4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**m3l4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mpochard?privacyName=true&privacyEmail=true)](https://github.com/m3L4n)
