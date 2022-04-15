@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![mpochard's 42 stats](https://badge42.vercel.app/api/v2/cl20lpm5k003009mf67s305h4/stats?cursusId=21&coalitionId=10)](https://github.com/JaeSeoKim/badge42)
+[![mpochard's 42 stats](https://badge42.vercel.app/api/v2/cl20lpm5k003009mf67s305h4/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
