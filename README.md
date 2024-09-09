@@ -16,3 +16,44 @@ Here are some ideas to get you started:
 -->
 
 [![mpochard's 42 stats](https://badge42.vercel.app/api/v2/cl20lpm5k003009mf67s305h4/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
+# Hi there, I'm Melanie Pochard! 👋
+
+
+## About Me 🚀
+
+I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+# Hi there, I'm Melanie Pochard! 👋
+
+
+## About Me 🚀
+
+I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **Rust, python**
+- 🔭 Working on: **multilayer perceptron ( neural networks ) in rust**
+- 🌍 Languages: **Python, Javascript, Nodejs**
+- 📫 How to reach me: **mpochard@student.42.fr**
+
+
+## My Skills 🧠
+
+
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REACT-NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MATERIAL_UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+## Get in Touch 📬
+
+- **[LinkedIn]** https://www.linkedin.com/in/melanie-pochard/
+
