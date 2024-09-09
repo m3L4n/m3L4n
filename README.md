@@ -19,13 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-# Hi there, I'm Melanie Pochard! 👋
-
-
-## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'am a passionate back-end developer with a strong interest in solving complex data-related problems
 
 - 🌱 Currently learning: **Rust, python**
 - 🔭 Working on: **multilayer perceptron ( neural networks ) in rust**
