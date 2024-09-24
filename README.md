@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'am a passionate back-end developer with a strong interest in solving complex data-related problems
 
 - 🌱 Currently learning: **Rust**
-- 🔭 Working on: **multilayer perceptron ( neural networks ) in rust**
+- 🔭 Working on: **multilayer perceptron ( neural networks )**
 - 🌍 Languages: **Python, Javascript, Nodejs**
 - 📫 How to reach me: **mpochard@student.42.fr**
 
