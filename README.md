@@ -49,3 +49,5 @@ I'am a passionate back-end developer with a strong interest in solving complex d
 
 - **[LinkedIn]** https://www.linkedin.com/in/melanie-pochard/
 
+- ![mpochard's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3L4n&show_icons=true&theme=radical)
+
