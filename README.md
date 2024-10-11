@@ -49,7 +49,7 @@ I'am a passionate back-end developer with a strong interest in solving complex d
 <a href="https://www.linkedin.com/in/melanie-pochard/">
 <img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)"/>
 </a>
-- ![mpochard's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3L4n&show_icons=true&theme=radical)
+![mpochard's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3L4n&show_icons=true&theme=radical)
 
 
 
