@@ -46,10 +46,10 @@ I'am a passionate back-end developer with a strong interest in solving complex d
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## Get in Touch 📬
-
-- **[LinkedIn]** https://www.linkedin.com/in/melanie-pochard/
-
+<a href="https://www.linkedin.com/in/melanie-pochard/">
+<img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)"/>
+</a>
 - ![mpochard's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3L4n&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3L4n&layout=pie)]
+
 
