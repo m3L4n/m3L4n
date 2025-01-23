@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'am a passionate back-end developer with a strong interest in solving complex data-related problems
 
 - 🌱 Currently learning: **Go**
-- 🔭 Working on: **Web interface that advice you how to dress based on trend, what you like etc powered by IA **
+- 🔭 Working on: **Web interface that advice you how to dress based on trend, what you like etc powered by IA**
 - 🌍 Languages: **Python, Javascript, Nodejs**
 - 📫 How to reach me: **mpochard@student.42.fr**
 
